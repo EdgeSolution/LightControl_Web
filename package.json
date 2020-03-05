@@ -1,7 +1,7 @@
 {
-  "name": "m2mlink",
+  "name": "lightControl",
   "version": "1.0.0",
-  "description": "android m2mlink",
+  "description": "control light",
   "author": "gangqiang",
   "private": true,
   "scripts": {
