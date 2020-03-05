@@ -1,7 +1,7 @@
-# m2mlink
+# lightControl
 
-> m2mlink project by vue framework . The main technologies used are vue axious scss es6 . 
-this project mainly applies to remote control of remote control device status.
+> lightControl project by vue framework . The main technologies used are vue axious scss es6 . 
+it is a Application of controlling lighting based on androidDM for secondary development
 
 ## Build Setup
 ## request nodejs 9.6.0V
