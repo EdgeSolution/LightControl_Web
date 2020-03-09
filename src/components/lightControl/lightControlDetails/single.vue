@@ -180,7 +180,7 @@
                 setTarget: "/40007/0/27601",
                 
                 //solution app pkg name
-                pkgname: "com.advantech.lightingcontrol",
+                pkgname: "com.advantech.lightcontrol",
                 funcIds: {
                     getLedStatus: "get_led_status",
                     getLedColor: "get_led_color",
