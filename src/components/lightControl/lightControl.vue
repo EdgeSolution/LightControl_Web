@@ -113,7 +113,7 @@
                 isOffline: false,
                 appSecurityIconColor: "#303133",
                 isRunning: false,
-                pkgname: "com.advantech.lightcontrol",
+                pkgname: "com.adv.lightcontrol",
                 versionName: "",
                 isInstalled: false,
                 defIsShow: false

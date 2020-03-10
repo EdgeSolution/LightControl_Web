@@ -193,7 +193,7 @@ export default {
             isInterval: false,
             //filter status
             statusArray: [],
-            pkgname: "com.advantech.lightcontrol",
+            pkgname: "com.adv.lightcontrol",
         }
     },
 

@@ -342,7 +342,7 @@
                 
                 //solution app pkg name
                  //solution app pkg name
-                pkgname: "com.advantech.lightcontrol",
+                pkgname: "com.adv.lightcontrol",
                 funcIds: {
                     getLedStatus: "get_led_status",
                     getLedColor: "get_led_color",
