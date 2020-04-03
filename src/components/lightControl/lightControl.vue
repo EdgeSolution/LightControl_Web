@@ -1,7 +1,7 @@
 <template>
     <div class="cf">
-        <mode-switch @mode-status="changeMode" class="modeSwitch"></mode-switch>
         <el-col :span="5" :offset="2">
+            <mode-switch @mode-status="changeMode" class="modeSwitch"></mode-switch>
             <select-group 
             @select-getDeviceOptions="getGroupOption" 
             @select-getGroupName="getGroupName" 
@@ -48,12 +48,6 @@
     </div>
 </template>
 <style lang="scss" scoped>
-   
-    .modeSwitch{
-        position: absolute;
-        top: 20px;
-        right: 50px;
-    }
 
     .switchApp{
         margin-top: 20px;
